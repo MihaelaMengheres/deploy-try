@@ -8,6 +8,7 @@
     <input type="checkbox" id="nav-toggle" class="nav-toggle">
     <nav>
         <ul>
+            <li><a href="index.html">🏡Home</a></li>
             <li><a href="#"><strong>Events</strong></a></li>
             <li><a href="#"><strong>About</strong></a></li>
             <li><a href="#"><strong>Info</strong></a></li>
